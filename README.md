@@ -36,7 +36,7 @@
 
  ![Visitor Count](https://profile-counter.glitch.me/kesava07/count.svg)
 
-[linkedin]: https://in.linkedin.com/in/chenna-kesava-a790a116a/
+[linkedin]: https://in.linkedin.com/in/chenna-kesava-somineni/
 [Github]: https://github.com/kesava07
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
