@@ -100,7 +100,7 @@
 
 ## 🌟 Let's Connect
 
-- 💼 LinkedIn: https://in.linkedin.com/in/chenna-kesava-somineni/
+- 💼 LinkedIn: https://in.linkedin.com/in/chennakesava-somineni/
 - 🌐 Portfolio: https://codewithck.dev
 - 📧 Email: kesava07.ip@gmail.com
 - 🐙 GitHub: https://github.com/kesava07
