@@ -1,42 +1,112 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Chenna Kesava S](https://in.linkedin.com/in/chenna-kesava-a790a116a/)
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Chenna Kesava S
 
-- 🔭 I’m currently working on React JS, Angular, Vanilla JS
-- 🌱 I’m currently learning Docker
-- 👯 I’m looking to collaborate on React JS
-- 🤔 I’m looking for help with Docker
-- 💬 Ask me about Web Development
-- 📫 How to reach me: kesava07.ip@gmail.com
-- 😄 Pronouns: He, Him, His
----
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src="https://img.shields.io/github/followers/kesava07?style=social" />][Github]
+### 🚀 Senior Frontend Engineer | React Specialist | UI Architect
 
-### My Tech Toolbox 🧰
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kesava07" alt="kesava07"/> </p>
 <p align="left">
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/>   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/>  <img src="https://img.icons8.com/cute-clipart/64/000000/react-native.png" alt="react" height="40" /> <img src="https://img.icons8.com/color/50/000000/angularjs.png"/ alt="angular" height="40"> <img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm" height="40"> <img src="https://img.icons8.com/nolan/64/json.png" alt="json" height="40" /> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" height="40" />   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" height="40"/>
+  <a href="https://in.linkedin.com/in/chenna-kesava-somineni/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Chenna%20Kesava%20S-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:kesava07.ip@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kesava07.ip%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/kesava07">
+    <img src="https://img.shields.io/github/followers/kesava07?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://codewithck.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-CodeWithCK.dev-black?style=for-the-badge&logo=vercel" />
+  </a>
 </p>
 
- 
-* My primary coding language: JavaScript
-* Earned Gold badge & 5 star at HackerRank in JavaScript programming.
-* Passionate for learning & exploring new Tech.
-* I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our thier programming journey.
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently working as a **Senior Frontend Developer** specializing in scalable and high-performance web applications.
+- ⚛️ Expert in **React, TypeScript, Angular, and Modern JavaScript**.
+- 🧩 Experienced in building **enterprise-grade component libraries and design systems**.
+- 🌱 Currently learning **Advanced React, TypeScript, Frontend System Design, AI-Assisted Development, and Performance Optimization**.
+- 🤖 Exploring **AI-powered development and prompt engineering**.
+- 🚀 Building my personal brand through my portfolio: **CodeWithCK.dev**.
+- 💼 Open to **freelance projects, collaborations, and technical consulting**.
+- 💬 Ask me about **Frontend Architecture, React, UI Engineering, and Performance Optimization**.
+- 🎯 Goal: To become a **Frontend Architect and Tech Leader in the AI-driven era**.
 
 ---
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesava07&theme=radical&hide=glsl,python" />
-</a>
 
-<details>
-<summary>📊 Github Stats</summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kesava07&show_icons=true&theme=gotham" alt="Chenna Kesava S | Stats" />
-</details>
+## 🛠️ Tech Stack
 
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,typescript,javascript,html,css,tailwind,bootstrap" />
+</p>
 
- ![Visitor Count](https://profile-counter.glitch.me/kesava07/count.svg)
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-[linkedin]: https://in.linkedin.com/in/chenna-kesava-somineni/
-[Github]: https://github.com/kesava07
+### ☁️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode,npm" />
+</p>
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+### 📚 Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,redis" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🚀 **CodeWithCK Portfolio** | Personal portfolio with blogs, AI prompts, and projects. | React, TypeScript, Tailwind |
+| 💰 **Smart Expense Tracker** | Tracks expenses, EMIs, and financial insights. | React, Node.js, MongoDB |
+| 🧩 **Enterprise Component Library** | Scalable UI components built for enterprise applications. | React, Angular, Vanilla JS |
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Gold Badge in JavaScript** on HackerRank.
+- ⭐ **5-Star Rating in JavaScript** on HackerRank.
+- 🏗️ Built and maintained enterprise-grade component libraries.
+- 📈 Successfully delivered scalable UI solutions across multiple organizations.
+- 👨‍🏫 Passionate about mentoring and guiding aspiring developers.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kesava07&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesava07&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kesava07&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kesava07&label=Profile%20Views&color=0e75b6&style=flat" alt="kesava07" />
+</p>
+
+---
+
+## 🌟 Let's Connect
+
+- 💼 LinkedIn: https://in.linkedin.com/in/chenna-kesava-somineni/
+- 🌐 Portfolio: https://codewithck.dev
+- 📧 Email: kesava07.ip@gmail.com
+- 🐙 GitHub: https://github.com/kesava07
+
+---
+
+<h3 align="center">✨ “Building scalable, elegant, and future-ready web experiences.” ✨</h3>
+
+<h3 align="center">Show some ❤️ by starring my repositories!</h3>
