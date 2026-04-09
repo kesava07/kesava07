@@ -3,7 +3,7 @@
 ### 🚀 Senior Frontend Engineer | React Specialist | UI Architect
 
 <p align="left">
-  <a href="https://in.linkedin.com/in/chenna-kesava-somineni/" target="_blank">
+  <a href="https://in.linkedin.com/in/chennakesava-somineni/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Chenna%20Kesava%20S-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:kesava07.ip@gmail.com">
